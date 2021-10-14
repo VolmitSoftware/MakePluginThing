@@ -1,0 +1,6 @@
+name: MakePluginThing
+version: 1.0
+main: com.volmit.MakePluginthing
+libraries:
+  - com.google.code.gson:gson:2.8.8
+api-version: 1.16
